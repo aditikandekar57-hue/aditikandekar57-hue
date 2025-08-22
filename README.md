@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Aditi
 
-<!--
-**aditikandekar57-hue/aditikandekar57-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate | 💻 Tech Enthusiast | 🤖 AI Explorer
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on AI and full-stack web projects
+  
+- 🌱 Learning more about ML, APIs, and cloud computing
+  
+- ⚡ Fun fact: I love turning complex problems into clean solutions
+
+  🔗 Let's Connect
+  https://www.linkedin.com/in/aditi-kandekar-8a751b2a8/
+
